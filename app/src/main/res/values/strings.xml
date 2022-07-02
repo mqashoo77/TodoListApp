@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Todo-List App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="loginTitle">Sıgn In</string>
+    <string name="loginUserTitle">Email</string>
+    <string name="loginPassTitle">Password</string>
+    <string name="loginSignInTitle">S ı g n  I n</string>
+    <string name="loginNoAccountTitle">Don\'t have an account? </string>
+    <string name="loginSignUpTitle">Sign Up</string>
+    <string name="loginUserNameError">Please fill the Username field!</string>
+    <string name="loginPasswordError">Please fill the Password field!</string>
+    <string name="signUpSuccessMessage">SignUp Success!</string>
+    <string name="signUpErrorMessage">Registration is available. Please check E-Mail or Username!</string>
+
+    <string name="signUpNameHint">Name &amp; Surname</string>
+    <string name="signUpUserNameHint">Username</string>
+    <string name="signUpPasswordHint">Password</string>
+    <string name="signUpEmailHint">E-Mail Address</string>
+    <string name="signUpBtnSubmit">SUBMIT</string>
+
+</resources>
