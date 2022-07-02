@@ -77,6 +77,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         builder.show();
+
     }*/
 
     public static void redirectActicity(Activity activity, Class aclass) {
